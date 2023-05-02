@@ -14,7 +14,7 @@ In the process of writing markdown, pandoc (.md suffix) and latex files, if you 
 Query the currently edited markdown, pandoc or latex document, based on its environment, and export the citation to the bib document according to the cited key.
 
 
-![export bibliography.gif](https://s2.loli.net/2022/02/07/by74icsMBRuVfO9.gif)
+![export bibliography.gif](./images/instructions_1.gif)
 
 # Zotero Cite: Add Citation for Pandoc/Latex
 
@@ -22,7 +22,7 @@ Query the currently edited markdown, pandoc or latex document, based on its envi
 
 If you want to insert citations during the writing process of pandoc and latex documents, but do not want to update the bib file, then this function is more suitable for you.
 
-![add citation for pandoc and latex.gif](https://s2.loli.net/2022/02/07/ZQSoTM69wdYAB4l.gif)
+![add citation for pandoc and latex.gif](./images/instructions_2.gif)
 
 # Zotero Cite: Cite and Create Bibliography for Pandoc/LaTeX
 
@@ -30,7 +30,7 @@ If you want to insert citations during the writing process of pandoc and latex d
 
 If you want to update the bib file while inserting citations during the writing process of pandoc and latex documents, then this function is more suitable for you.
 
-![add citation and add bibliography for pandoc and latex.gif](https://s2.loli.net/2022/02/07/vefSHTJWnG6DAt7.gif)
+![add citation and add bibliography for pandoc and latex.gif](./images/instructions_3.gif)
 
 # Zotero Cite: Cite and Create Bibliography for Markdown
 
@@ -38,12 +38,12 @@ If you want to update the bib file while inserting citations during the writing 
 
 If you want to update the footnotes while inserting the citation during the writing process of the markdown document, then this function is more suitable for you.
 
-![add citation and add bibliography for markdown.gif](https://s2.loli.net/2022/02/07/IcuWZpy7zLJFUsY.gif)
+![add citation and add bibliography for markdown.gif](./images/instructions_4.gif)
 
 
 # Zotero Cite: Cite Hyperlink
 
-![VSCODE插入超链接引用.gif](https://s2.loli.net/2022/05/04/eMSAvoIQC9gViTG.gif)
+![VSCODE插入超链接引用.gif](./images/instructions_5.gif)
 
 
 # 修改历史
@@ -60,5 +60,4 @@ If you want to update the footnotes while inserting the citation during the writ
 
 # Tutorial video
 
-链接：https://pan.baidu.com/s/1Z6i6lFzoJAAJIg7o7pylQQ 
-提取码：5jbw 
+Yet to be updated
