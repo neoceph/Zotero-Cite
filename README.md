@@ -1,3 +1,5 @@
+Original repo is located at [repo](https://gitee.com/rusterx/zotero-cite)
+
 # zotero-cite README
 
 
